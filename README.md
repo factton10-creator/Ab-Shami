@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%2B+Web+Development+Enthusiast;Building+Projects+and+Learning+Every+Day;Future+AI%2FML+Developer+🚀" />
+  <img src="https://raw.githubusercontent.com/factton10-creator/factton10-creator/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=factton10&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=factton10-creator&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </p>
 
 ---
